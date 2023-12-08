@@ -1,0 +1,3 @@
+This is a game called Rock paper and scissors ...
+you can play by clicking the icons below and the computer will also choose one.
+IF you want to play it click this!--> <a href="http://htmlpreview.github.io/?https://github.com/Duduoop/RockPaperScissors/blob/main/index.html">click Me if you want to play</a>
